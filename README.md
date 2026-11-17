@@ -1,4 +1,4 @@
-# Basic Power BI Import – Task 39
+# Basic Power BI Import 
 
 ## Project Overview
 This project is created as part of the Veda Technology Data Analytics Track.
